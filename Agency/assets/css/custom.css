@@ -1,0 +1,13 @@
+/* Add here all your css styles (customizations) */
+.chess-about-us-item--1 {
+	background: url(img/features_function-01.png) no-repeat 50% 0 / cover;
+}
+.chess-about-us-item--2 {
+	background: url(img/features_function-02.png) no-repeat 50% 0 / cover;
+}
+.chess-about-us-item--3 {
+	background: url(img/features_function-03.png) no-repeat 50% 0 / cover;
+}
+.chess-about-us-item--4 {
+	background: url(img/features_function-04.png) no-repeat 50% 0 / cover;
+}
